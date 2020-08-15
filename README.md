@@ -30,3 +30,7 @@ React -- Swift Boot -- C / C++ -- Raylib
 - Born in 2001
 - Programmer since 2015
 - Fascinated by Science and Computers
+
+
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=n-ziermann&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
