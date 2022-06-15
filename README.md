@@ -2,34 +2,6 @@
 
 ## Programming is my passion as well as my job 
 
-#### Tools and Languages I use
-
-<img align="left" alt="HTML5" width="40px" src="https://simpleicons.org/icons/html5.svg" />
-<img align="left" alt="CSS" width="40px" src="https://simpleicons.org/icons/css3.svg" />
-<img align="left" alt="JS" width="40px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="left" alt="Python" width="40px" src="https://simpleicons.org/icons/python.svg" />
-<img align="left" alt="Java" width="40px" src="https://simpleicons.org/icons/java.svg" />
-<img align="left" alt="Arduino" width="40px" src="https://simpleicons.org/icons/arduino.svg" />
-<img align="left" alt="Bootstrap" width="40px" src="https://simpleicons.org/icons/bootstrap.svg" />
-<img align="left" alt="Django" width="40px" src="https://simpleicons.org/icons/django.svg" />
-<img align="left" alt="Unity3D" width="40px" src="https://simpleicons.org/icons/unity.svg" />
-<img align="left" alt="Godot" width="40px" src="https://simpleicons.org/icons/godotengine.svg" />
-
-<br>
-
----
-
-#### Tools and Languages I'm currently learning
-
-<img align="left" alt="react" width="40px" src="https://simpleicons.org/icons/react.svg" />
-<img align="left" alt="c++" width="40px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="raylib" width="40px" src="https://github.com/raysan5/raylib/raw/master/logo/raylib_256x256.png" />
-<img align="left" alt="spring boot" width="40px" src="https://simpleicons.org/icons/spring.svg" />
-
-<br>
-
----
-
 #### Projects I'm proud of
 
 1. Nikscript -- My own programming language [Link](https://n-ziermann.github.io/projects/nikscript.html) 
