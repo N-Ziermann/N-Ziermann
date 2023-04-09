@@ -22,12 +22,8 @@
 
 Email: 
 
-n-ziermann@protonmail.com 
+business@n-ziermann.com 
 
-Contact(English): 
+Contact: 
 
-https://n-ziermann.github.io/contact.html?en
-
-Kontakt(Deutsch): 
-
-https://n-ziermann.github.io/contact.html?de
+https://n-ziermann.com/contact
