@@ -1,29 +1,30 @@
-TODO: align-center doesnt work on gh
-TODO: get in touch link is not clickable on gh
-
-<header align="center">
+<div align="center">
   <img src="channels4_banner.jpg" alt="Banner image"/>
   <span>
     I believe programming is one of the
     <i> most valueable </i>
-    skills to improve the way you think about problems.
+    skills to improve the way you think about problems
   </span>
   <p class="spacer"></p>
-</header>
+</div>
 
 Which is why I share my coding knowledge and opinions on my [WebDev-YouTube-Channel](https://youtube.com/NiklasZiermann) to share my passion for this awesome skill.
 
 - 🔐 TypeScript aficionado (**pro** ReturnTypes)
-- 🎉 Bullish on React Server Components
+- 📈 Bullish on React Server Components
 - 🥞 Full Stack with a Frontend Preference
 - ❤️ Loving JS tooling (caused me stop using Python)
 - 🎥 [WebDev YouTuber](https://youtube.com/NiklasZiermann)
 - 🎓 Passionate teacher
 - 🐶 Dog Dad (Belgian Malinois)
 
+---
+
 <h3>Youtube Content</h3>
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw"><img width="140px" src="https://i.ytimg.com/vi/qjEFlKFufaw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw">Creating Games in React!?</a></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=5vZQjL9edJA"><img width="140px" src="https://i.ytimg.com/vi/5vZQjL9edJA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=5vZQjL9edJA">Get a React Job in 2024</a></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HI0N-p9y02k"><img width="140px" src="https://i.ytimg.com/vi/HI0N-p9y02k/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=HI0N-p9y02k">The PERFECT Usecase For Server Components</a></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <tr><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT"><img width="140px" src="https://i.ytimg.com/vi/fZPgBnL2x-Q/mqdefault.jpg"></a></td><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT">My FreeCodeCamp Zustand Course</a></td></tr>
 </table>
@@ -32,4 +33,4 @@ Which is why I share my coding knowledge and opinions on my [WebDev-YouTube-Chan
 thanks.forEach(() => 'like' && 'comment');
 ```
 
-✉️ **_[Get in touch]("https://n-ziermann.com/contact")_** ✉️
+<p>✉️ <b><i><a href="https://n-ziermann.com/contact">Get in touch</a></i></b> ✉️</p>
