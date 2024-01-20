@@ -1,29 +1,35 @@
-# Hey my Name is Niklas
+TODO: align-center doesnt work on gh
+TODO: get in touch link is not clickable on gh
 
-## Programming is my passion as well as my job 
+<header align="center">
+  <img src="channels4_banner.jpg" alt="Banner image"/>
+  <span>
+    I believe programming is one of the
+    <i> most valueable </i>
+    skills to improve the way you think about problems.
+  </span>
+  <p class="spacer"></p>
+</header>
 
-#### Projects I'm proud of
+Which is why I share my coding knowledge and opinions on my [WebDev-YouTube-Channel](https://youtube.com/NiklasZiermann) to share my passion for this awesome skill.
 
-1. Nikscript -- My own programming language [Link](https://n-ziermann.github.io/projects/nikscript.html) 
-2. Password Manager -- A secure password manager website that uses similar encryption algorithms to those used by LastPass [Link](https://niklasziermann.pythonanywhere.com/password)
-3. Pi-Deck -- An open source alternative to the Elgato Stream Deck based on the Raspberry Pi [Link](https://n-ziermann.github.io/projects/pi-deck.html)
+- 🔐 TypeScript aficionado (**pro** ReturnTypes)
+- 🎉 Bullish on React Server Components
+- 🥞 Full Stack with a Frontend Preference
+- ❤️ Loving JS tooling (caused me stop using Python)
+- 🎥 [WebDev YouTuber](https://youtube.com/NiklasZiermann)
+- 🎓 Passionate teacher
+- 🐶 Dog Dad (Belgian Malinois)
 
----
+<h3>Youtube Content</h3>
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+<tr><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT"><img width="140px" src="https://i.ytimg.com/vi/fZPgBnL2x-Q/mqdefault.jpg"></a></td><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT">My FreeCodeCamp Zustand Course</a></td></tr>
+</table>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=n-ziermann&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+```typescript
+thanks.forEach(() => 'like' && 'comment');
+```
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-ziermann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-#### Contact
-
-Email: 
-
-business@n-ziermann.com 
-
-Contact: 
-
-https://n-ziermann.com/contact
+✉️ **_[Get in touch]("https://n-ziermann.com/contact")_** ✉️
