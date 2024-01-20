@@ -1,29 +1,36 @@
-# Hey my Name is Niklas
+<div align="center">
+  <img src="channels4_banner.jpg" alt="Banner image"/>
+  <span>
+    I believe programming is one of the
+    <i> most valueable </i>
+    skills to improve the way you think about problems
+  </span>
+  <p class="spacer"></p>
+</div>
 
-## Programming is my passion as well as my job 
+Which is why I share my coding knowledge and opinions on my [WebDev-YouTube-Channel](https://youtube.com/NiklasZiermann) to share my passion for this awesome skill.
 
-#### Projects I'm proud of
-
-1. Nikscript -- My own programming language [Link](https://n-ziermann.github.io/projects/nikscript.html) 
-2. Password Manager -- A secure password manager website that uses similar encryption algorithms to those used by LastPass [Link](https://niklasziermann.pythonanywhere.com/password)
-3. Pi-Deck -- An open source alternative to the Elgato Stream Deck based on the Raspberry Pi [Link](https://n-ziermann.github.io/projects/pi-deck.html)
+- 🔐 TypeScript aficionado (**pro** ReturnTypes)
+- 📈 Bullish on React Server Components
+- 🥞 Full Stack with a Frontend Preference
+- ❤️ Loving JS tooling (caused me stop using Python)
+- 🎥 [WebDev YouTuber](https://youtube.com/NiklasZiermann)
+- 🎓 Passionate teacher
+- 🐶 Dog Dad (Belgian Malinois)
 
 ---
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=n-ziermann&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Youtube Content</h3>
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw"><img width="140px" src="https://i.ytimg.com/vi/qjEFlKFufaw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw">Creating Games in React!?</a></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=5vZQjL9edJA"><img width="140px" src="https://i.ytimg.com/vi/5vZQjL9edJA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=5vZQjL9edJA">Get a React Job in 2024</a></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HI0N-p9y02k"><img width="140px" src="https://i.ytimg.com/vi/HI0N-p9y02k/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=HI0N-p9y02k">The PERFECT Usecase For Server Components</a></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+<tr><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT"><img width="140px" src="https://i.ytimg.com/vi/fZPgBnL2x-Q/mqdefault.jpg"></a></td><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT">My FreeCodeCamp Zustand Course</a></td></tr>
+</table>
 
----
+```typescript
+thanks.forEach(() => 'like' && 'comment');
+```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-ziermann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-#### Contact
-
-Email: 
-
-business@n-ziermann.com 
-
-Contact: 
-
-https://n-ziermann.com/contact
+<p>✉️ <b><i><a href="https://n-ziermann.com/contact">Get in touch</a></i></b> ✉️</p>
