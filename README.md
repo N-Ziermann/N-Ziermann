@@ -22,9 +22,9 @@ Which is why I share my coding knowledge and opinions on my [WebDev-YouTube-Chan
 
 <h3>Youtube Content</h3>
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw"><img width="140px" src="https://i.ytimg.com/vi/qjEFlKFufaw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw">Creating Games in React!?</a></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=sLPT_2YqmWc"><img width="140px" src="https://i.ytimg.com/vi/sLPT_2YqmWc/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=sLPT_2YqmWc">State is NOT Async But...</a></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw"><img width="140px" src="https://i.ytimg.com/vi/qjEFlKFufaw/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=qjEFlKFufaw">Creating Games in React!?</a></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5vZQjL9edJA"><img width="140px" src="https://i.ytimg.com/vi/5vZQjL9edJA/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=5vZQjL9edJA">Get a React Job in 2024</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=HI0N-p9y02k"><img width="140px" src="https://i.ytimg.com/vi/HI0N-p9y02k/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=HI0N-p9y02k">The PERFECT Usecase For Server Components</a></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <tr><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT"><img width="140px" src="https://i.ytimg.com/vi/fZPgBnL2x-Q/mqdefault.jpg"></a></td><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT">My FreeCodeCamp Zustand Course</a></td></tr>
 </table>
