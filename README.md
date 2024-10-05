@@ -22,9 +22,9 @@ Which is why I share my coding knowledge and opinions on my [WebDev-YouTube-Chan
 
 <h3>Youtube Content</h3>
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=iZ3N9uSPZb8"><img width="140px" src="https://i.ytimg.com/vi/iZ3N9uSPZb8/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=iZ3N9uSPZb8">Enabling Offline Electron Caching</a></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://www.youtube.com/watch?v=KwRos71aWiU"><img width="140px" src="https://i.ytimg.com/vi/KwRos71aWiU/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=KwRos71aWiU">Finding Open Source Projects To Contribute To</a></td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=iZ3N9uSPZb8"><img width="140px" src="https://i.ytimg.com/vi/iZ3N9uSPZb8/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=iZ3N9uSPZb8">Enabling Offline Electron Caching</a></td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=orf9U0w_N5c"><img width="140px" src="https://i.ytimg.com/vi/orf9U0w_N5c/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=orf9U0w_N5c">How Is This Not Solved Yet...</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ymh6DQjbRZ8"><img width="140px" src="https://i.ytimg.com/vi/ymh6DQjbRZ8/mqdefault.jpg"></a></td><td><a href="https://www.youtube.com/watch?v=ymh6DQjbRZ8">I Built A Bundler! &lpar;and it&#39;s really slow&rpar;</a></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 <tr><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT"><img width="140px" src="https://i.ytimg.com/vi/fZPgBnL2x-Q/mqdefault.jpg"></a></td><td><a href="https://youtu.be/fZPgBnL2x-Q?si=Gpa62PYYu15SqKvT">My FreeCodeCamp Zustand Course</a></td></tr>
 </table>
